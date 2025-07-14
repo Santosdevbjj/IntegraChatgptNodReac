@@ -10,12 +10,17 @@
 ✨ 🚀 **DESCRIÇÃO:**
 
    Crie uma aplicação completa utilizando o recurso oficial da OpenAI, a inteligência por trás do chatGPT e crie um front-end clone da ferramenta mais popular do mercado para integrar com um back-end funcional.
+   
+
+🔹
 
 
 **🎵 ChatGPT Clone FullStack** 
 
 Uma aplicação **Clone do ChatGPT**, desenvolvida com **Node.js + Express** no back-end e **React** no front-end, utilizando a API oficial da OpenAI. Inclui modo “Especialista em Música” para estudos sobre escalas (Dó, Sol, Fá, Ré, Mi, Si) e sugestões de músicas em Lá menor, Dó, Sol e Ré.
 
+
+🔹
 
 
 ## 🚀 Funcionalidades
@@ -28,6 +33,8 @@ Uma aplicação **Clone do ChatGPT**, desenvolvida com **Node.js + Express** no 
 - Indicador "Digitando..."
 - Estilização responsiva (desktop & mobile)
 
+
+🔹
 
 
 ## 🧰 Tecnologias Utilizadas
@@ -81,6 +88,7 @@ npm start
 O front‑end abrirá em http://localhost:3000.
 
 
+🔹
 
 🎧 Modo "Especialista em Música"
 
@@ -90,6 +98,8 @@ Você é um especialista em teoria musical...
 
 Teste criando conversas sobre escalas de Dó, Sol, Fá, Ré, Mi, Si e peça músicas em Lá menor, Dó, Sol e Ré.
 
+
+🔹
 
 
 🗂️ Estrutura de Pastas
@@ -109,18 +119,7 @@ Sidebar.js (menu, temas)
 CSS modular em /CSS/
 
 
-
-🧠 Dicas de Personalização
-
-Adicionar tema customizado (cores, fontes)
-
-Suporte a sessão de usuário (via localStorage)
-
-Transição entre modos claro/escuro
-
-WebSockets para chat em tempo real
-
-Deploy no Heroku, Vercel ou Netlify
+🔹
 
 
 🤝 Contribuição
@@ -138,6 +137,8 @@ Contribuições são bem-vindas!
 
 4. Abra um pull request
 
+
+🔹
 
 
  🎯 Sobre
