@@ -1,4 +1,4 @@
-## Formação ChatGPT for Devs.
+## Formação ChatGPT for Devs. Ministrado pela DIO.me.
 
 ![chadevpor](https://github.com/user-attachments/assets/e8c2ec72-7d82-4b13-aa72-8f28bcbdae7b)
 
@@ -6,7 +6,13 @@
 **Integrando o ChatGPT com Node e React.**
 
 
-🎵 ChatGPT Clone FullStack
+
+✨ 🚀 **DESCRIÇÃO:**
+
+   Crie uma aplicação completa utilizando o recurso oficial da OpenAI, a inteligência por trás do chatGPT e crie um front-end clone da ferramenta mais popular do mercado para integrar com um back-end funcional.
+
+
+**🎵 ChatGPT Clone FullStack** 
 
 Uma aplicação **Clone do ChatGPT**, desenvolvida com **Node.js + Express** no back-end e **React** no front-end, utilizando a API oficial da OpenAI. Inclui modo “Especialista em Música” para estudos sobre escalas (Dó, Sol, Fá, Ré, Mi, Si) e sugestões de músicas em Lá menor, Dó, Sol e Ré.
 
@@ -104,7 +110,6 @@ CSS modular em /CSS/
 
 
 
-
 🧠 Dicas de Personalização
 
 Adicionar tema customizado (cores, fontes)
@@ -116,8 +121,6 @@ Transição entre modos claro/escuro
 WebSockets para chat em tempo real
 
 Deploy no Heroku, Vercel ou Netlify
-
-
 
 
 🤝 Contribuição
@@ -137,23 +140,8 @@ Contribuições são bem-vindas!
 
 
 
+ 🎯 Sobre
 
-📄 Licença
+Este clone foi inspirado em projetos como o de Felipe Aguiar.
 
-Projeto licenciado sob MIT. Veja o arquivo LICENSE para mais detalhes.
-
-
-
-🎯 Sobre
-
-Este clone foi inspirado em projetos como o de Felipe Aguiar  . Valeu pelos aprendizados, e bora personalizar com a sua identidade e estudos musicales!
-
-
-
-
-✨ Se utilizar este projeto no seu portfólio DIO ou Github, marque com orgulho seu perfil e impressione seu próximo processo seletivo 🚀
-
-
-
-✅ Ajuste conforme necessário — por exemplo, altere nomes, paths e chaves API. Esse modelo de README agrega clareza, organização e profissionalismo.24
 
